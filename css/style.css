@@ -343,7 +343,12 @@ header .container .navigation .menu {
     max-width: 264px;
 }
 
-.page-footer .container a {
+.page-footer .container .logo {
     display: inline-block;
     margin-bottom: 16px;
+}
+
+.visually-hidden {
+    position: fixed;
+    transform: scale(0);
 }
