@@ -318,11 +318,12 @@ header .container .navigation .menu {
 
 .page-footer {
     padding: 100px 0;
+    color: #f4f4fd;
+    background-color: #2e2f42;
 }
 
 .footer-info {
-    color: #f4f4fd;
-    background-color: #2e2f42;
+
     max-width: 264px;
 }
 
