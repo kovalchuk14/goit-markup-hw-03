@@ -1,0 +1,180 @@
+body {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    color: #434455;
+    background-color: #ffffff;
+}
+
+a {
+    text-decoration: none;
+    color: #434455;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.section-logo {
+    text-align: center;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+h3 {
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.logo {
+    text-transform: uppercase;
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    color: #4d5ae5;
+}
+
+.logo .Studio {
+    color: #2e2f42;
+}
+
+.navigation-link {
+    color: #2e2f42;
+    font-weight: 500;
+    letter-spacing: 0.02em;
+}
+
+.navigation-link:hover,
+.navigation-link:focus {
+    color: #404bbf;
+}
+
+.navigation-link:active {
+    color: #3d5ae5;
+    text-decoration: underline;
+}
+
+.navigation-address {
+    font-style: normal;
+}
+
+
+.navigation-address a {
+    letter-spacing: 0.02em
+}
+
+.navigation-address a:hover,
+.navigation-address a:focus {
+    color: #404bbf;
+}
+
+
+.banner {
+    background-color: #2e2f42;
+}
+
+.page-tittle {
+    color: #ffffff;
+    text-align: center;
+    letter-spacing: 0.02em;
+    font-size: 56px;
+    line-height: 1.07;
+    font-weight: 700;
+}
+
+.banner-button {
+    color: #ffffff;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    background-color: #4d5ae5;
+    cursor: pointer;
+}
+
+.banner-button:hover,
+.banner-button:focus {
+    background-color: #404bbf;
+}
+
+.section-team {
+    background-color: #f4f4fd;
+}
+
+footer {
+    color: #f4f4fd;
+    background-color: #2e2f42;
+}
+
+footer .logo {
+    color: #f4f4fd;
+}
+
+.section-team .section-logo {
+    font-size: 36px;
+    line-height: 1.11;
+    text-transform: capitalize;
+}
+
+.banner .page-tittle {
+    line-height: 1.07;
+}
+
+.benefits .section-logo {
+
+
+    color: #2e2f42;
+
+}
+
+.team-card {
+    background-color: #FFFFFF;
+}
+
+.team-info {
+
+    color: #2e2f42;
+    letter-spacing: 0.02em;
+
+}
+
+.team-description {
+    font-size: 16px;
+    letter-spacing: 0.02em;
+}
+
+.portfolio .section-logo {
+    font-size: 36px;
+    line-height: 1.11;
+    text-transform: capitalize;
+}
+
+.portfolio-info {
+    color: #2e2f42;
+    letter-spacing: 0.02em;
+}
+
+
+.page-footer .logo {
+    color: #4d5ae5;
+}
+
+.page-footer .studio {
+    color: #f4f4fd;
+}
+
+.benefits-title {
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+
+.benefits-info {
+    color: #434455;
+    letter-spacing: 0.02em;
+}
